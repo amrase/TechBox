@@ -51,6 +51,7 @@ This project was bootstrapped with EXPO.
 
 
 
-![Login](Login.png)
+![Login](Login.png) ![Signup](Signup.png)
 
+![HomeScreen](HomeScreen.png) ![SingleBlogScreen](SingleBlogScreen)  ![NotificationScreen](NotificationScreen.png)
 
