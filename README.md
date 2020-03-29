@@ -4,7 +4,8 @@
 
 A mobile application that allows users to write blogs, follow other users and read their blogs.
 
-Requirements
+# Requirements
+
 $ node --version
 v13.10.1
 
@@ -54,4 +55,6 @@ This project was bootstrapped with EXPO.
 ![Login](Login.png) ![Signup](Signup.png)
 
 ![HomeScreen](HomeScreen.png)![SingleBlogScreen](SingleBlogScreen.png)![NotificationScreen](NotificationScreen.png)
+
+![UserSceen](UserScreen.png)![WriteBlogScreen](WriteBlogScreen.png)[UserAccountScreen](UserAccountScreen.png)
 
