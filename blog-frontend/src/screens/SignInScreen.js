@@ -48,7 +48,7 @@ const SignInScreen = ({navigation}) => {
             </TouchableOpacity>
             </Spacer>
             <Spacer>
-            <TouchableOpacity onPress={()=>openModal()}>
+            {/* <TouchableOpacity onPress={()=>openModal()}>
                  <Text style={styles.link}>Click to open the modal</Text>
                  
             </TouchableOpacity>
@@ -60,7 +60,7 @@ const SignInScreen = ({navigation}) => {
             isVisible={isVisible} 
             style={{backgroundColor:'white'}}>
                 <SignUpScreen/>
-            </Modal>
+            </Modal> */}
             </Spacer>
             
     
